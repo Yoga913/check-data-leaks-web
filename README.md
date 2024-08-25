@@ -2,7 +2,7 @@
 
 Ini adalah skrip bash sederhana untuk memeriksa potensi kebocoran data pada domain dengan memeriksa status HTTP dari jalur tertentu. Skrip ini mencoba kedua protokol (HTTP dan HTTPS) untuk setiap jalur yang ditentukan.
 
-<img src="https://github.com/Yoga913/check-data-leaks-web/1.png">
+<img src="https://github.com/Yoga913/check-data-leaks-web/blob/main/1.png">
 
 ## Persyaratan
 
